@@ -1,3 +1,0 @@
-Warning[2074] C:\pic18\wink\wink.c 42 : location WREG specified in the interrupt save list is redundant
-Warning[2074] C:\pic18\wink\wink.c 42 : location BSR specified in the interrupt save list is redundant
-Warning[2074] C:\pic18\wink\wink.c 43 : location STATUS specified in the interrupt save list is redundant
